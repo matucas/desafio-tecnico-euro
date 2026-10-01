@@ -1,5 +1,8 @@
 # Desafio Técnico – Sistema de Agendamentos
 
+## Entrega
+Para entrega enviar no chat do LinkedIn o seu repositório até 07/10.
+
 ## Contexto
 
 Uma empresa precisa de uma aplicação para gerenciamento de agendamentos.
